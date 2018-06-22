@@ -1,0 +1,6 @@
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\SecondTestTask\SecondTestTask\bin\Debug\SecondTestTask.exe.config
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\SecondTestTask\SecondTestTask\bin\Debug\SecondTestTask.exe
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\SecondTestTask\SecondTestTask\bin\Debug\SecondTestTask.pdb
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\SecondTestTask\SecondTestTask\obj\Debug\SecondTestTask.csproj.CoreCompileInputs.cache
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\SecondTestTask\SecondTestTask\obj\Debug\SecondTestTask.exe
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\SecondTestTask\SecondTestTask\obj\Debug\SecondTestTask.pdb
